@@ -1,5 +1,5 @@
 === Inpsyde Users ===
-Contributors: brettshumaker
+Contributors: Waqar Ahmed
 Tags: user list, user details 
 Requires at least: 3.0
 Tested up to: 5.2.1
@@ -32,14 +32,4 @@ Alright, here's a few things to try:
 == Changelog ==
 
 = 0.0.1 =
-* Other minor tweaks/performance enhances.
-
-= 1.02 =
-* BUGFIX: Corrects a plugin option naming inconsistency which resulted in empty boxes on the Templates page
-
-= 1.0.1 =
-* I incorrectly tagged release version 1.0 and, as a result, not all files were included in version 1.0 of Users List.
-* This version adds those required files back into the package.
-
-= 1.0 =
-* Initial Plugin Launch
+* Initial Plugin Launch + Code Review
